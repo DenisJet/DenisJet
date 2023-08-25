@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-Hi 👋 My name is Denis Kalkopf
+<h1 align="center">Hi 👋 My name is Denis Kalkopf</h1>
 ------------------------------
 
-Web developer
+<h3 alogn="center">Web developer</h3>
 -------------
 
 ---
@@ -26,5 +26,4 @@ Web developer
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=denisjet&theme=tokyonight-duo)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisjet&layout=compact&theme=nightowl&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
