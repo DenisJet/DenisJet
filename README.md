@@ -22,6 +22,7 @@
 ---
 
 <h2 align="center">My Stats :</h2>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=denisjet&theme=tokyonight-duo)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisjet&layout=compact&theme=nightowl&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=denisjet&theme=tokyonight-duo)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisjet&layout=compact&theme=nightowl&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+</div>
