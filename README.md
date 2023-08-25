@@ -27,4 +27,6 @@ Web developer
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=denisjet&theme=tokyonight-duo)](https://git.io/streak-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisjet&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisjet&layout=compact&theme=nightowl&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
