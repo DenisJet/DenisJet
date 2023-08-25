@@ -8,12 +8,9 @@ Hi 👋 My name is Denis Kalkopf
 Web developer
 -------------
 
-### Skills
+---
 
-
-<p align="left">
-ICON ICON ICON ICON ICON ICON ICON
-</p>
+### :hammer_and_wrench: Languages and Tools :
 
 
 ### Socials
