@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<h1 align="center">Hi 👋 My name is Denis Kalkopf</h1>
+<h1 align="center">Hi 👋 my name is Denis Kalkopf</h1>
 
 <h3 align="center">Web developer</h3>
 
