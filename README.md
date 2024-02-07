@@ -31,4 +31,3 @@
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=denisjet&theme=tokyonight&card_width=500)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisjet&layout=compact&theme=nightowl&card_width=500&)](https://github.com/anuraghazra/github-readme-stats)
